@@ -14,7 +14,7 @@
     <section class="text-center pt-5">
       <img src="assets/img//logountag.png" alt="" width="300">
       <div class="h2 fw-bold">
-        DAFTAR MAHASISWA UNTAG SURABAYA
+        DAFTAR MAHASISWA UNTAG SURABAYA MISAL
       </div>
       <div class="h5">
         Jl. Semolowaru No.45 Surabaya - 031-60412962
