@@ -1,17 +1,7 @@
-<footer class="bg-dark text-light py-3 mt-3">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <p>&copy; 2023 My Website</p>
-            </div>
-            <div class="col-lg-6 text-lg-end">
-                <ul class="list-inline">
-                    <li class="list-inline-item"><a href="#">Home</a></li>
-                    <li class="list-inline-item"><a href="#">About Us</a></li>
-                    <li class="list-inline-item"><a href="#">Contact</a></li>
-                </ul>
-            </div>
-        </div>
+<footer class="p-3 container">
+
+    <div class="d-flex flex-column flex-sm-row justify-content-between py-3 my-0 border-top">
+        <p>&copy; <?= date('Y') ?> Created By 1462100076 - Alfito Rachmad Dinova.</p>
     </div>
 </footer>
 
